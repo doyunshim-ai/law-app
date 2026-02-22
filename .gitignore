@@ -1,0 +1,29 @@
+# Node.js
+node_modules/
+npm-debug.log
+package-lock.json
+
+# Expo
+.expo
+.expo-shared/
+
+# React Native
+*.xcodeproj/
+*.xcworkspace/
+*.gradle/
+*.idea/
+build/
+ios/Pods/
+android/.gradle/
+
+# Environment variable files
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Other
+.DS_Store
+*.pem
+*.log
